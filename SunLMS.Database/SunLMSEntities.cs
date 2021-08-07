@@ -8,7 +8,7 @@ namespace SunLMS.Database
     public partial class SunLMSEntities : DbContext
     {
         public SunLMSEntities()
-            : base("name=SunLMSEntities")
+            : base("name=SunLMSEntitiesLocal")
         {
         }
 

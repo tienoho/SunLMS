@@ -20,7 +20,7 @@ namespace SunLMS.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-        public ApplicationDbContext() : base("SunLMSEntities", throwIfV1Schema: false)
+        public ApplicationDbContext() : base("SunLMSEntitiesLocal", throwIfV1Schema: false)
         {
         }
 

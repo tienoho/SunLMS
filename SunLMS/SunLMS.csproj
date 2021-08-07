@@ -183,6 +183,10 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\aspnet-SunLMS-20210805091954.mdf" />
+    <Content Include="App_Data\aspnet-SunLMS-20210805091954_log.ldf">
+      <DependentUpon>aspnet-SunLMS-20210805091954.mdf</DependentUpon>
+    </Content>
     <Content Include="Content\assets\css\pages\error\error-3.css" />
     <Content Include="Content\assets\css\pages\error\error-4.css" />
     <Content Include="Content\assets\css\pages\error\error-5.css" />
@@ -2539,9 +2543,7 @@
     <Content Include="Views\Shared\Partial\_PrimaryPartial.cshtml" />
     <Content Include="Views\Shared\Partial\_SecondaryPartial.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
