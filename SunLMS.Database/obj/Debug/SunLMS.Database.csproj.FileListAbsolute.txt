@@ -10,3 +10,15 @@ D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Database\obj\Debug\SunLMS.D
 D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.csproj.CopyComplete
 D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.dll
 D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.pdb
+F:\code\SunLMS\SunLMS.Database\bin\Debug\SunLMS.Database.dll.config
+F:\code\SunLMS\SunLMS.Database\bin\Debug\SunLMS.Database.dll
+F:\code\SunLMS\SunLMS.Database\bin\Debug\SunLMS.Database.pdb
+F:\code\SunLMS\SunLMS.Database\bin\Debug\EntityFramework.dll
+F:\code\SunLMS\SunLMS.Database\bin\Debug\EntityFramework.SqlServer.dll
+F:\code\SunLMS\SunLMS.Database\bin\Debug\EntityFramework.xml
+F:\code\SunLMS\SunLMS.Database\bin\Debug\EntityFramework.SqlServer.xml
+F:\code\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.csprojAssemblyReference.cache
+F:\code\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.csproj.CoreCompileInputs.cache
+F:\code\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.csproj.CopyComplete
+F:\code\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.dll
+F:\code\SunLMS\SunLMS.Database\obj\Debug\SunLMS.Database.pdb

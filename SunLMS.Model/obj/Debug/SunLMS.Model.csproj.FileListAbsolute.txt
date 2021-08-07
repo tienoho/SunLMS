@@ -4,3 +4,9 @@ D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Mode
 D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.csproj.CoreCompileInputs.cache
 D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.dll
 D:\01.TienLv-CNTT\01.Project\05.SunLMS\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.pdb
+F:\code\SunLMS\SunLMS.Model\bin\Debug\SunLMS.Model.dll
+F:\code\SunLMS\SunLMS.Model\bin\Debug\SunLMS.Model.pdb
+F:\code\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.csprojAssemblyReference.cache
+F:\code\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.csproj.CoreCompileInputs.cache
+F:\code\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.dll
+F:\code\SunLMS\SunLMS.Model\obj\Debug\SunLMS.Model.pdb
